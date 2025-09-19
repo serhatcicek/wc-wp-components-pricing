@@ -1,0 +1,10 @@
+.wcdcp-table{
+  width:100%; border-collapse:collapse; margin:12px 0;
+  font-size:14px;
+}
+.wcdcp-table th, .wcdcp-table td{
+  border-bottom:1px solid #eee; padding:10px 8px; text-align:left;
+}
+.wcdcp-table thead th{ font-weight:700; background:#fafafa; }
+.wcdcp-qty{ width:70px; padding:6px; }
+.wcdcp-grand{ font-weight:700; font-size:15px; margin-top:10px; }
